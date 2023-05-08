@@ -1,3 +1,3 @@
-node puppet.local {
+node pmaster01.oabergset.com {
   include role::master
 }
