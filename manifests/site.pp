@@ -1,3 +1,3 @@
-node pmaster01.oabergset.com {
-  include role::master
-}
+#node pmaster01.oabergset.com {
+ # include role::master
+#}
